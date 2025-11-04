@@ -17,12 +17,12 @@ This repository contains the Google Colab notebooks for Assignment 3, covering t
 
 ## 📦 Model Weights (Question 1)
 
-Model weights for **Task 1**, including various checkpoints (with and without L2 regularization and dropout), are hosted on Hugging Face Hub:
+Model weights for **Task 1**, including various checkpoints (with and without L2 regularization and dropout), losses across epochs, vocab are hosted on Hugging Face Hub:
 
 * **HF Repo:** [https://huggingface.co/XoXMF/spacy\_language\_mlp](https://huggingface.co/XoXMF/spacy_language_mlp)
 
-##  streamlit Streamlit Application (Question 1)
+##  Streamlit Application (Question 1)
 
-The Streamlit application code (Task 1.4) is included at the **end of the `question1.ipynb` notebook**.
+The Streamlit application code (Task 1.4) is included at the **end of the `question1.ipynb` notebook** and as it uses pyngrok library, its not feasible to give static link.
 
-To run the applet, please execute the final cells within the Google Colab notebook. The app will be launched using `localtunnel`, providing a public URL for access.
+To run the applet, please execute the final cells within the Google Colab notebook and click the link. The app will be launched using `localtunnel`, providing a public URL for access.
